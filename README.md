@@ -6,11 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacks128&label=Visitors&color=9782e3&style=flat-square" alt="jacks128" /> </p>
 
-- 📫 How to reach me **jackelinebenitez112@gmail.com** <br>
+- 📫 How to reach me **andy.macnab.j@gmail.com** <br>
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackeline-benitez-90386a1a4/)
 
 ## About me...
-<img align="right"  src="https://github.com/Jacks128/Jacks128/blob/main/proudtobeme.jpg" width="250px"/>
  :computer: Currently I'm Science and System Engineer Student from Universidad de San Carlos de Guatemala. <br>
  :woman_teacher: Enjoy teach math, physics and english to kids and teenagers. <br>
  :boot: I love sales and do craft, I am an entrepreneur in progress since August, 2020. <br>
