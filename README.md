@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm... </h1>
 <div align="center">
-<img  src="https://github.com/DevAndyMacnab/DevAndyMacnab/blob/437c90f5c0df0dce48a2564eb60665ea5ba21176/Portada.gif">
+<img  src="https://github.com/DevAndyMacnab/DevAndyMacnab/blob/main/Portada%20Github.gif">
 </div>
 <h3 align="center">A System Engineer Student from Guatemala :guatemala: </h3>
 
