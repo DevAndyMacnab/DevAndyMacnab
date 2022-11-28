@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm... </h1>
 <div align="center">
-<img  src="https://github.com/DevAndyMacnab/DevAndyMacnab/blob/main/Portada.png" align="center">
+<img  src="https://github.com/DevAndyMacnab/DevAndyMacnab/blob/437c90f5c0df0dce48a2564eb60665ea5ba21176/Portada.gif">
 </div>
 <h3 align="center">A System Engineer Student from Guatemala :guatemala: </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacks128&label=Visitors&color=9782e3&style=flat-square" alt="jacks128" /> </p>
-
 - 📫 How to reach me **andy.macnab.j@gmail.com** <br>
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackeline-benitez-90386a1a4/)
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-jimenez-macnab-688927245/)
 
 ## About me...
  :computer: Currently I'm Science and System Engineer Student from Universidad de San Carlos de Guatemala. <br>
