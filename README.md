@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm... </h1>
 <div align="center">
- ...
-<img  src="https://github.com/DevAndyMacnab/DevAndyMacnab/blob/main/Portada%20Github.gif">
+ 
+<img  src="https://github.com/DevAndyMacnab/DevAndyMacnab/blob/be174ef67a8a2410b2bd137443e307dbfffd7324/Portada.gif">
 </div>
 <h3 align="center">A System Engineer Student from Guatemala :guatemala: </h3>
 
